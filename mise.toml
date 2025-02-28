@@ -1,0 +1,4 @@
+[tools]
+helix = "latest"
+marksman = "latest"
+ruby = "latest"
