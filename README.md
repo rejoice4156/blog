@@ -6,5 +6,5 @@ My personal blog hosted using GitHub Pages and built using Jekyll
 ```bash
 sh ./serve.sh
 # OR
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
